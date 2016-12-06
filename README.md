@@ -76,7 +76,6 @@ I use my extra time for this project development, so the development process doe
 - __[2016/08/20] Build server side framework. Using `LeanCloud` & `Python`. [Server]__
 - __[2016/08/18] Integrate Dagger Retrofit2 OkHttp3 RxJava etc. [Android]__
 
-#just test
 
 # Inspired By
 [《Producter》](http://producter.io/)
